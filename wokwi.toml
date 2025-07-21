@@ -1,6 +1,6 @@
 [wokwi]
 version = 1
-elf = "build/esp32-idf-hello-wifi.elf"
-firmware = "build/esp32-idf-hello-wifi.bin"
-gdbServerPort=3333
+elf = "./build/esp-led.elf"
+firmware = "./build/esp-led.bin"
+gdbServerPort=1234
 
