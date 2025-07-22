@@ -1,3 +1,5 @@
+source "/home/sens/workspace/esp32/esp-led/main/boards/Kconfig.projbuild"
+
 menu "WiFi App Configuration"
 
   config ESP_WIFI_SSID

@@ -1,0 +1,9 @@
+menu "Borad Configuration"
+
+  config Board_Version
+      int "Board Version"
+      default 1
+      help
+          Board Version
+
+endmenu
